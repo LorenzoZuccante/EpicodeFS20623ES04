@@ -1,0 +1,103 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400&family=Roboto:wght@400;700&display=swap');
+  
+@import url(/assets/img/sfondo.png);
+body {
+    font-family: 'Poppins';
+    background-image: url(sfondo.png);
+    
+    
+}
+header {
+  background-color:rgba(91, 35, 213, 1);
+  text-align: center;
+  color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+  
+}
+header ul {
+  list-style: none;
+}
+
+#logo1 {
+  width: 30%;
+  margin-top: 10%;
+}
+cite {
+  color: gray;
+}
+main {
+  background-color: white;
+}
+aside {
+  background-color: white;
+}
+
+table {border-collapse: collapse;
+  
+}
+tr:nth-child(even) {
+  background: white;
+}
+tr:nth-child(odd) {
+  background: lightslategray;
+}
+table:first-child {
+  background: blue;
+}
+aside {
+  text-align: center;
+}
+  
+#novita {
+  background: gray;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-radius: 6px;
+}
+#articolo1 {
+  background: gray;
+  margin: 10%;
+  border-radius: 6px;
+  margin-top: 5%;
+
+}
+#articolo2 {
+  background: gray;
+  margin: 10%;
+  border-radius: 6px;
+  margin-top: 5%;
+
+}
+#articolo3 {
+  background: gray;
+  margin: 10%;
+  border-radius: 6px;
+  margin-top: 5%;
+  
+
+}
+
+
+
+
+    
+
+    
+
+/* HEADER */
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
